@@ -52,7 +52,6 @@ I'm currently diving deep into the world of **Cloud Security**, while sharpening
 </p>
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/matrix7337.png" alt="Your Image Badge" />
 
 ### 🤝 Let's Connect
 
