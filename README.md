@@ -27,9 +27,8 @@ I'm currently diving deep into the world of **Cloud Security**, while sharpening
 
 ### 🏴‍☠️ CTFs
 
-![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)](https://github.com/matrix-7337/OverThewire-CTF)
 [![picoCTF](https://img.shields.io/badge/picoCTF-picoGym-green)](https://play.picoctf.org/users/matrix-7337)
-![CTFs](https://img.shields.io/badge/CTF-Practice-informational)
 [![CTFLearn](https://img.shields.io/badge/CTFlearn-active-pink)](https://ctflearn.com/user/matrix-7337)
 
 
@@ -47,8 +46,8 @@ I'm currently diving deep into the world of **Cloud Security**, while sharpening
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matrix-7337&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix-7337&theme=radical" />
 </p>
 
 ---
