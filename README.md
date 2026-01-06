@@ -14,14 +14,15 @@ I'm currently diving deep into the world of **Cloud Security**, while sharpening
 ### 🔭 What I’m Learning
 - 🌐 **AWS Security** and **Azure Security**
 - 🔐 Exploring **Identity & Access Management (IAM)**, **Encryption**, and **Network Security**
-- ⚙️ Automating tasks with **Python scripts**
+- ⚙️ Automating tasks with **Python scripts and Bash**
 - 💡 Practicing **Capture The Flag (CTF)** and cloud-based **security labs**
 
 ---
 
 ### 🧠 Currently Learning
-- 📡 Learning Networking fundamentaql 
-- 🐍 Learning Python
+- 🧿 Bash Scripting
+- 📡 Learning Networking fundamental 
+- 🐍 Operating System Fundamentals
 
 ---
 
