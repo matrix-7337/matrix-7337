@@ -148,4 +148,7 @@ Status Line   : “It worked on my machine.”
 
 ---
 
+#                 Thanks for Visiting 💚
+<img src="vocaloidchibi.png" vocaloidchibi.png width="1100px" />
+
 <p align="center">🔥 Always stay curious and keep learning! 🔐</p>
