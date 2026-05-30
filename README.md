@@ -65,15 +65,54 @@
 
 ---
 
-### 📈 GitHub Stats
+### <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=for-the-badge&logo=linux&logoColor=white" />
+ 
+```zsh
+matrix@unknown: ~/github-profile (main⚡)$ neofetch
+```
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matrix-7337&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix-7337&theme=radical" />
-</p>
+<img align="left" src="img/TheEmminenceInShadow/cid.png" width="279px"/>
 
+```csharp
+My Profile v1.0.0: “I have no idea what I’m doing, but it works.”
+----------------------------------------------------------------------------------------
+
+Username      : matrix
+Alias         : rootless-ghost / packet-sniffer-in-training
+Status        : Probably debugging something that worked yesterday
+OS            : Kali Linux (but pretending to be a cyber wizard)
+Kernel        : linux-lts (a.k.a. “it still boots somehow”)
+Shell         : zsh (because bash looked too basic)
+Uptime        : since last coffee ☕
+
+CPU           : Intel i3 (running 47 Chrome tabs + regret)
+GPU           : Integrated graphics + hope
+Memory        : 3.7 GiB (2.9 GiB used by “I’ll fix this later”)
+
+Resolution    : 1366x768 (HD enough for suffering)
+WM            : Xfce4 (lightweight because my laptop said so)
+Theme         : “Dark Mode or I die”
+Icons         : Flat-Remix (because aesthetics matter more than performance)
+
+IP Address    : 127.0.0.1 (for legal reasons)
+Location      : Somewhere between stackoverflow and despair
+
+Languages     : Python, Bash, HTML (copy-paste expert level)
+Learning      : Cybersecurity, pentesting, not breaking production
+Tools         : nmap • burpsuite • wireshark • caffeine
+
+Hobbies       : CTFs, breaking things, fixing nothing, repeat
+Fav Activity  : typing "sudo" before everything for confidence
+
+Status Line   : “It worked on my machine.”
+----------------------------------------------------------------------------------------
+```
+
+<div>
+  
 ---
-<img align="right" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width="225">
+<img align="right" src ="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width ="225">
+
 
 ### 🤝 Let's Connect
 
