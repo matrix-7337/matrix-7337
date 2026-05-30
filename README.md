@@ -94,13 +94,13 @@ Theme         : “Dark Mode or I die”
 Icons         : Flat-Remix (because aesthetics matter more than performance)
 
 IP Address    : 127.0.0.1 (for legal reasons)
-Location      : Somewhere between stackoverflow and despair
+Location      : Somewhere between Lets Defend and despair
 
 Languages     : Python, Bash, HTML (copy-paste expert level)
-Learning      : Cybersecurity, pentesting, not breaking production
-Tools         : nmap • burpsuite • wireshark • caffeine
+Learning      : Cybersecurity, forensics, not breaking production
+Tools         : nmap • autopsy • wireshark • caffeine
 
-Hobbies       : CTFs, breaking things, fixing nothing, repeat
+Hobbies       : CTFs, fixing things, breaking nothing, repeat
 Fav Activity  : typing "sudo" before everything for confidence
 
 Status Line   : “It worked on my machine.”
