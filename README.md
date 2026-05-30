@@ -7,22 +7,20 @@
 
 ### 👋 Hello there! I'm 3L3V3N 
 
-I'm currently diving deep into the world of **Cloud Security**, while sharpening my skills in **Python** for scripting, automation, and security tool development. I’m passionate about protecting systems in the cloud and building a strong foundation in DevSecOps.
-
+I'm currently diving deep into the world of Digital Forensics & Incident Response (DFIR) while strengthening my understanding of Defensive Security. I'm passionate about investigating security incidents, analyzing digital evidence, and learning how to detect and respond to cyber threats.
 ---
 
 ### 🔭 What I’m Learning
-- 🌐 **AWS Security** and **Azure Security**
-- 🔐 Exploring **Identity & Access Management (IAM)**, **Encryption**, and **Network Security**
-- ⚙️ Automating tasks with **Python scripts and Bash**
-- 💡 Practicing **Capture The Flag (CTF)** and cloud-based **security labs**
-
+- 🔍 **Digital Forensics and Incident Response**
+- 🛡️ **Exploring Threat Detection, Threat Hunting, and Security Monitoring**
+- ⚙️ **Automating tasks with Python scripts and Bash**
+- 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
 ---
 
 ### 🧠 Currently Learning
 - 🧿 Bash Scripting
 - 📡 Learning Networking fundamental 
-- 🐍 Operating System Fundamentals
+- 🐍 Operating System Deep Fundamentals
 
 ---
 
