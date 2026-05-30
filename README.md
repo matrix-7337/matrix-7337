@@ -58,7 +58,7 @@
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-https://app.letsdefend.io/user/matrix7337https://app.letsdefend.io/user/matrix7337
+
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
 
 <br>
