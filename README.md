@@ -1,13 +1,25 @@
-<h1 align="center">🌩️ Cloud Security Enthusiast | 🐍 Python Learner</h1>
+<h1 align="center"> 🔵 Defensive Security Learner </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=LEARNING..." alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 Hello there! I'm 3L3V3N  
+## Hello there! I'm 3L3V3N <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+ 
 
-### **I'm currently diving deep into the world of Digital Forensics & Incident Response (DFIR) while strengthening my understanding of Defensive Security. I'm passionate about investigating security incidents, analyzing digital evidence, and learning how to   detect  and respond to cyber threats.**
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<br>
+<pre>
+     I'm currently diving deep into the world of Digital Forensics
+     & Incident Response (DFIR) while strengthening my understanding
+     of Defensive Security. I'm passionate about investigating security 
+     i.ncidents, analyzing digital evidence, and learning how to detect
+     and respond to cyber threats.
+</pre>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br>
+</div>
 ---
 
 ### 🔭 What I’m Learning
@@ -33,12 +45,23 @@
 
 ---
 
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" align="right" />
+
 ### 🧰 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
+
+<br>
 
 ---
 
