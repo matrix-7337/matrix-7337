@@ -71,7 +71,6 @@
 matrix@unknown: ~/github-profile (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/TheEmminenceInShadow/cid.png" width="279px"/>
 
 ```csharp
 My Profile v1.0.0: “I have no idea what I’m doing, but it works.”
