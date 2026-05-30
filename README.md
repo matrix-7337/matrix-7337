@@ -70,7 +70,7 @@
 ```zsh
 matrix@unknown: ~/github-profile (main⚡)$ neofetch
 ```
-
+<img align="left" src="Cute-Anime-Girl-PNG-Download-Image.png" width="279px" />
 
 ```csharp
 My Profile v1.0.0: “I have no idea what I’m doing, but it works.”
