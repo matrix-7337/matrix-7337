@@ -5,7 +5,7 @@
 
 
 ## Hello there! I'm 3L3V3N <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
- 
+  
 
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 <br>
@@ -112,7 +112,7 @@ Status Line   : “It worked on my machine.”
 <img align="right" src ="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width ="225">
 
 
-### 🤝 Let's Connect
+<h3 align="center"> 🤝 Let's Connect </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
