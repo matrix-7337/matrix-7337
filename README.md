@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=LEARNING..." alt="Typing SVG" />
 </p>
 
----
 
 ## Hello there! I'm 3L3V3N <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
  
@@ -22,12 +21,12 @@
 </div>
 ---
 
-### 🔭 What I’m Learning
+### 🔭 Targeted Topics 2026
 - 🔍 **Digital Forensics and Incident Response**
-- 🛡️ **Exploring Threat Detection, Threat Hunting, and Security Monitoring**
+- 🛡️ **Information Security Principles**
 - ⚙️ **Automating tasks with Python scripts and Bash**
 - 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
----
+
 
 ### 🧠 Currently Learning
 - 🧿 Bash Scripting
@@ -148,7 +147,7 @@ Status Line   : “It worked on my machine.”
 
 ---
 
-#                 Thanks for Visiting 💚
+<h1 align="center"> Thanks for Visiting 💚  </h1>
 <img src="vocaloidchibi.png" vocaloidchibi.png width="1100px" />
 
 <p align="center">🔥 Always stay curious and keep learning! 🔐</p>
