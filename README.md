@@ -150,4 +150,4 @@ Status Line   : “It worked on my machine.”
 <h1 align="center"> Thanks for Visiting 💚  </h1>
 <img src="vocaloidchibi.png" vocaloidchibi.png width="1100px" />
 
-<p align="center">🔥 Always stay curious and keep learning! 🔐</p>
+<p align="center"> 11/11 </p>
