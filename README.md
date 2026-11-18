@@ -1,39 +1,13 @@
-<h1 align="center"> 🔵 Defensive Security Learner </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=LEARNING..." alt="Typing SVG" />
-</p>
+<h1 align="center"> 🌸 Greetings Travellers </h1>
 
-
-## Hello there! I'm 3L3V3N <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  
-
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<br>
-<pre>
+```
      I'm currently diving deep into the world of Digital Forensics
      & Incident Response (DFIR) while strengthening my understanding
      of Defensive Security. I'm passionate about investigating security 
      i.ncidents, analyzing digital evidence, and learning how to detect
      and respond to cyber threats.
-</pre>
+```
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br>
-</div>
----
-
-### 🔭 Targeted Topics 2026
-- 🔍 **Digital Forensics and Incident Response**
-- 🛡️ **Information Security Principles**
-- ⚙️ **Automating tasks with Python scripts and Bash**
-- 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
-
-
-### 🧠 Currently Learning
-- 🧿 Bash Scripting
-- 📡 Learning Networking fundamental 
-- 🐍 Operating System Deep Fundamentals
-
----
 
 ### 🏴‍☠️ CTFs
 
@@ -46,7 +20,7 @@
 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" align="right" />
 
-### 🧰 Tech Stack & Tools
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -108,13 +82,9 @@ Status Line   : “It worked on my machine.”
 
 <div>
   
----
 <img align="right" src ="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width ="225">
 
-
-<h3 align="center"> 🤝 Let's Connect </h3>
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -136,7 +106,7 @@ Status Line   : “It worked on my machine.”
   <img src="https://img.shields.io/badge/LetsDefend-add8e6?style=for-the-badge&logo=shield&logoColor=white" />
 </a>
 
-<a href="https://discord.com/users/matrix-7337">
+<a href="https://discord.com/users/matrix.7337">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
@@ -144,10 +114,3 @@ Status Line   : “It worked on my machine.”
   <img src="https://img.shields.io/badge/picoCTF-F39C12?style=for-the-badge&logo=ctfd&logoColor=white" />
 </a>
 </p>
-
----
-
-<h1 align="center"> Thanks for Visiting 💚  </h1>
-<img src="vocaloidchibi.png" vocaloidchibi.png width="1100px" />
-
-<p align="center"> 11/11 </p>
