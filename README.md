@@ -1,7 +1,5 @@
 <h1 align="center">  🌸 Greetings Travellers </h1>
 
-<img src="c.gif" height="300" align="right">
-
 ```csharp
 matrix@root:~$ whoami                                                
 
@@ -20,6 +18,9 @@ matrix@root:~$ whoami
     Languages   : C | Python | Bash
     Environment : Linux Systems
 ```
+<p align="center">
+<img src="c.gif" height="800" width="750">
+</p>
 
 <img align="left" src="Demon-Anime-Boy-Background-PNG.png" width="279px" />
 
