@@ -19,7 +19,7 @@ matrix@root:~$ whoami
     Environment : Linux Systems
 ```
 <p align="center">
-<img src="c.gif" height="900" width="1000">
+<img src="c.gif" height="800" width="900">
 </p>
 
 <img align="left" src="Demon-Anime-Boy-Background-PNG.png" width="279px" />
