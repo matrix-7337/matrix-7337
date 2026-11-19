@@ -34,6 +34,7 @@ matrix@root:~$ whoami
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="82" />
+  <img src="https://skillicons.dev/icons?i=md" width="82" alt="Markdown"/>
 </p>
 
 <p align="center">
@@ -42,15 +43,26 @@ matrix@root:~$ whoami
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" width="82" />
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="82" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="82" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="82 alt="VS Code"/> 
 </p>
 <br>
 <br>
 <br>
 
+<img align="right" src=farming-barn-red-wooden-large_20260217_040958.png height="440">
+
+<h1 align="left" > 🌼CTFs 
+   
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-Wargames-00AA66?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/matrix-7337/OverThewire-CTF)
+[![picoCTF](https://img.shields.io/badge/picoCTF-Profile-00A6D6?style=for-the-badge&logo=target&logoColor=white)](https://play.picoctf.org/users/matrix-7337)
+
+[![CTFlearn](https://img.shields.io/badge/CTFlearn-Profile-E6A23C?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctflearn.com/user/matrix-7337)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-DC3545?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/matrix7337)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-orange?style=for-the-badge&logo=clockify&logoColor=white)](https://ctftime.org/user/260937)
 
 
+<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="300" />
 
+<br>
 
-<p align="right"> 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
