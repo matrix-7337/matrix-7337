@@ -62,7 +62,7 @@ matrix@root:~$ whoami
 [![CTFtime](https://img.shields.io/badge/CTFtime-Profile-orange?style=for-the-badge&logo=clockify&logoColor=white)](https://ctftime.org/user/260937)
 
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="300" />
+<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
 
-<br>
+
 
