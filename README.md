@@ -2,7 +2,7 @@
 
 <img src="c.gif" height="300" align="right">
 
-```csharp
+<pre> 
 matrix@root:~$ whoami                                                
 
    \  |     \  __ __|   _ \  _ _| \ \  / 
@@ -21,7 +21,7 @@ matrix@root:~$ whoami
     Environment : Linux Systems
 
 matrix@root:~$ _
-```
+  </pre>
 
 ---
 <img align="left" src="Demon-Anime-Boy-Background-PNG.png" width="279px" />
