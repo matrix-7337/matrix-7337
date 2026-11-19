@@ -4,19 +4,23 @@
 matrix@root:~$ whoami                                                
 
    \  |     \  __ __|   _ \  _ _| \ \  / 
-  |\/ |    _ \    |    |   |   |   \  /  
-  |   |   ___ \   |    __ <    |      \  
- _|  _| _/    _\ _|   _| \_\ ___|  _/\_\ 
-                                         
-    Identity    : 3L3V3N
-    Domain      : Cybersecurity
-    Interests   : DFIR | Linux 
-                  Malware Analysis 
-                 Semi-Conductor Eng
-                 Networking | Hardware
+  |\/ |    _ \    |    |   |   |   \  /                                      |>>>
+  |   |   ___ \   |    __ <    |      \                                      |
+ _|  _| _/    _\ _|   _| \_\ ___|  _/\_\                                 _  _|_  _
+    Identity    : 3L3V3N                                                |;|_|;|_|;|
+    Domain      : Cybersecurity                                         \\.    .  /
+    Interests   : DFIR | Linux                                           \\:  .  /
+                  Malware Analysis                                        ||:   |
+                  Semi-Conductor Eng                                      ||:.  |
+                  Networking | Hardware                                   ||:  .|
+    Languages   : C | Python | Bash                                       ||:   |       \,/
+    Environment : Linux Systems                                           ||: , |            /`\
+                                                                          ||:   |
+                                                                          ||: . |
+                                           __                            _||_   |
+     ____--`~    '--~~__            __ ----~    ~`---,              ___   ||:   |
+-~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~--~----
 
-    Languages   : C | Python | Bash
-    Environment : Linux Systems
 ```
 <p align="center">
 <img src="c.gif" height="800" width="900">
