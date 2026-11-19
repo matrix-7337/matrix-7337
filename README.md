@@ -34,7 +34,6 @@ matrix@root:~$ whoami
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="82" />
-  <img src="https://skillicons.dev/icons?i=md" width="82" alt="Markdown"/>
 </p>
 
 <p align="center">
@@ -44,7 +43,6 @@ matrix@root:~$ whoami
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="82" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="82 alt="VS Code"/> 
 </p>
 <br>
 <br>
