@@ -1,7 +1,6 @@
-<h1 align="center"> 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> Greetings Travellers </h1>
+<h1 align="center">  🌸 Greetings Travellers </h1>
 
-<img src="c.gif" height="350" align="right">
+<img src="c.gif" height="300" align="right">
 
 ```csharp
 matrix@root:~$ whoami                                                
@@ -25,8 +24,10 @@ matrix@root:~$ _
 ```
 
 ---
-<img align="left" src="Cute-Anime-Girl-PNG-Download-Image.png" width="279px" />
+<img align="left" src="Demon-Anime-Boy-Background-PNG.png" width="279px" />
 
+<h1 align="center" > 🍄Tool Stack
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" width="82" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="82" />
@@ -44,24 +45,13 @@ matrix@root:~$ _
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" width="82" />
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="82" />
 </p>
-
-
+<br>
+<br>
 <br>
 
----
-<p align="center">
-  <a href="https://github.com/matrix-7337">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="55" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="55" />
-  </a>
-  <a href="https://discord.com/users/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="55" />
-  </a>
-  <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="55" />
-  </a>
-</p>
 
----
+
+
+
+<p align="right"> 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
