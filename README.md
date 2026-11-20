@@ -56,7 +56,6 @@ matrix@root:~$ whoami
    
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-Wargames-00AA66?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/matrix-7337/OverThewire-CTF)
 [![picoCTF](https://img.shields.io/badge/picoCTF-Profile-00A6D6?style=for-the-badge&logo=target&logoColor=white)](https://play.picoctf.org/users/matrix-7337)
-matrix-7337/matrix-7337 is a special repository: its README.md will appear on your profile!
 
 [![CTFlearn](https://img.shields.io/badge/CTFlearn-Profile-E6A23C?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctflearn.com/user/matrix-7337)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-DC3545?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/matrix7337)
@@ -65,7 +64,9 @@ matrix-7337/matrix-7337 is a special repository: its README.md will appear on yo
 <br>
 
  ###
- 
+
+ <img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
+
  <div align="left">
   <a href="https://discord.whispergate.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -73,5 +74,4 @@ matrix-7337/matrix-7337 is a special repository: its README.md will appear on yo
 </div>
 
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
 
