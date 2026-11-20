@@ -64,14 +64,9 @@ matrix@root:~$ whoami
 <br>
 
  ###
-
- <img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
-
- <div align="left">
-  <a href="https://discord.whispergate.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-
-
+ 
+<a href="https://discord.whispergate.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-548B72?style=for-the-badge&logo=discord&logoColor=white"
+       height="35"
+       alt="Discord"/>
+</a>
