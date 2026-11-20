@@ -26,7 +26,7 @@ matrix@root:~$ whoami
 
 <img align="left" src="Demon-Anime-Boy-Background-PNG.png" width="279px" />
 
-<h1 align="center" > 🍄Tool Stack
+<p align="center" > 🍄Tool Stack </p> 
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" width="82" />
@@ -51,7 +51,9 @@ matrix@root:~$ whoami
 
 <img align="right" src=farming-barn-red-wooden-large_20260217_040958.png height="440">
 
-<h1 align="left" > 🌼CTFs 
+<p align="left" > 🌼CTFs </p>
+
+<p align="left"> 
    
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-Wargames-00AA66?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/matrix-7337/OverThewire-CTF)
 [![picoCTF](https://img.shields.io/badge/picoCTF-Profile-00A6D6?style=for-the-badge&logo=target&logoColor=white)](https://play.picoctf.org/users/matrix-7337)
@@ -60,9 +62,10 @@ matrix@root:~$ whoami
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-DC3545?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/matrix7337)
 [![CTFtime](https://img.shields.io/badge/CTFtime-Profile-orange?style=for-the-badge&logo=clockify&logoColor=white)](https://ctftime.org/user/260937)
 
-
 <br>
 
+ ###
+ 
  <div align="left">
   <a href="https://discord.whispergate.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
