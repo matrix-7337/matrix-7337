@@ -4,9 +4,10 @@
 matrix@root:~$ whoami                                                
 
    \  |     \  __ __|   _ \  _ _| \ \  / 
-  |\/ |    _ \    |    |   |   |   \  /                                      |>>>
-  |   |   ___ \   |    __ <    |      \                                      |
- _|  _| _/    _\ _|   _| \_\ ___|  _/\_\                                 _  _|_  _
+  |\/ |    _ \    |    |   |   |   \  /                                      
+  |   |   ___ \   |    __ <    |      \                                      |>>>
+ _|  _| _/    _\ _|   _| \_\ ___|  _/\_\                                     |
+                                                                         _  _|_  _
     Identity    : 3L3V3N                                                |;|_|;|_|;|
     Domain      : Cybersecurity                                         \\.    .  /
     Interests   : DFIR | Linux                                           \\:  .  /
@@ -60,7 +61,14 @@ matrix@root:~$ whoami
 [![CTFtime](https://img.shields.io/badge/CTFtime-Profile-orange?style=for-the-badge&logo=clockify&logoColor=white)](https://ctftime.org/user/260937)
 
 
+<br>
+
+ <div align="left">
+  <a href="https://discord.whispergate.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+
 <img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
-
-
 
