@@ -51,7 +51,7 @@ matrix@root:~$ whoami
 
 <img align="right" src="medieval-banner-heraldic-flag-pole-hanging_20260217_132341.png" >
 
-<p align="left" > 🌼CTFs </p>
+<p align="left" > 🏴‍☠️ CTFs </p>
 
    
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-Wargames-00AA66?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/matrix-7337/OverThewire-CTF)
