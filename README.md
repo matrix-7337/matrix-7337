@@ -49,7 +49,7 @@ matrix@root:~$ whoami
 <br>
 <br>
 
-<img align="right" src=farming-barn-red-wooden-large_20260217_040958.png height="440">
+<img align="right" src="medieval-banner-heraldic-flag-pole-hanging_20260217_132341.png" >
 
 <p align="left" > 🌼CTFs </p>
 
